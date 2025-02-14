@@ -12,8 +12,8 @@
 
 ### Quickstart
 ```bash
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
-cd foundry-fund-me-cu
+git clone https://github.com/nabil-ziani/foundry-fund-me
+cd foundry-fund-me
 make
 ```
 
